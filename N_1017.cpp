@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-
+//hahahahah
 int main(){
     int n,m;
     while(cin>>n>>m){
